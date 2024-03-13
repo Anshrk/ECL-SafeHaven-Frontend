@@ -10,10 +10,10 @@
 
     <label for="city">City: </label>
     <input type="text" id='city' name='city' />
-    <label for="state">State: </label>
-    <input type="text" id='state' name='state' />
-    <label for="fcode">Fips Code: </label>
-    <input type="fcode" id='fcode' name='fcode' />
+    <label for="state">Fips Code: </label>
+    <input type="text" id='fips' name='fips' />
+    <label for="type">Type: </label>
+    <input type="text" id='type' name='type' />
     <button type="submit">Submit</button>
 
   </form>
