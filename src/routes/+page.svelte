@@ -12,7 +12,7 @@
 <section>
 	<h1>
 
-		Made by Akhil, Anaya and AAnsh
+		Made by Akhil, Ananya and Ansh
 	</h1>
 	<h2>
 		Huge thanks to Mr.Bob Foreman
